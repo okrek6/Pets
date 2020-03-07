@@ -1,0 +1,11 @@
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Brendan Krekeler\Desktop\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\Brendan Krekeler\Desktop\Pets\obj\Debug\netcoreapp3.1\Pets.csprojAssemblyReference.cache
+C:\Users\Brendan Krekeler\Desktop\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\Users\Brendan Krekeler\Desktop\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\Users\Brendan Krekeler\Desktop\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Brendan Krekeler\Desktop\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
